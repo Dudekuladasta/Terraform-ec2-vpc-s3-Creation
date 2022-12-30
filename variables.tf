@@ -1,12 +1,6 @@
-variable "access_key" {
-  default = "AKIA2ASXEYCTLHCWDGA3"
-  }
-variable "secret_key" {
-  default = "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"
-  }
-variable "region" {
-  default = "ap-south-1"
-  }
+variable "access_key" {}
+variable "secret_key" {}
+variable "region" {}
 
 variable "vpc_cidr" {}
 variable "vpc_name" {}
