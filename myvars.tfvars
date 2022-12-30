@@ -12,7 +12,7 @@ sub_name = "dasta-evn-sub1"
 sec_grp_name = "dasta-evn-sg1"
 
 /*ec2 values*/
-ami_id="ami-06489866022e12a14"
+ami_id="ami-0cca134ec43cf708f"
 ec2_size="t2.micro"
 ec2_name="dasta-server1"
 ec2_key="Dasta_keypair_16092022"
