@@ -1,5 +1,5 @@
-access_key = "AKIA2ASXEYCTLHCWDGA3"
-secret_key = "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"
+access_key = "XXXXXXXXXXXXXXX"
+secret_key = "XXXXXXXXXXXXXXXXXXXX"
 region = "ap-south-1"
 
 /*vpc values*/
